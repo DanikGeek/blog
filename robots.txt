@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://danikgeek.github.io/blog/sitemap.xml
